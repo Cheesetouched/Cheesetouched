@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Ongoing -> MLH Fellowship
-Contributing -> [browserify/resolve](https://github.com/browserify/resolve)
+- Ongoing -> MLH Fellowship
+- Contributing -> [browserify/resolve](https://github.com/browserify/resolve)
 
 <!--
 **Cheesetouched/Cheesetouched** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
